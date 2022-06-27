@@ -26,3 +26,11 @@ overwatch stats
 genshin stats (using api in https://enka.shinshin.moe) 
 
 ![image](https://user-images.githubusercontent.com/97100803/175984214-beafc74d-4c33-4779-98a3-899faff04b51.png)
+
+
+
+Usrage:
+
+put your discord bot token and trackers.gg api key, weather forecast api key in items.json
+
+  
